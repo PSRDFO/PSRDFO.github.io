@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Home
 ---
 
 # Welcome to the Homepage of Pacific Salmon Research - DFO
@@ -12,5 +11,5 @@ title: Home
 
 - [Blog](/blog)
 - [Discussion Board](https://github.com/PSRDFO/PSRDFO.github.io/discussions)
-- [My Projects](/projects)
-- [Contact Me](mailto:PSRDFO@gmail.com)
+- [Active Repositories and Projects](/projects)
+- [Group Contact](mailto:PSRDFO@gmail.com)
