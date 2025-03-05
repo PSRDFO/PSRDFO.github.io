@@ -2,7 +2,6 @@
 layout: page
 title: Blog
 permalink: /blog/
-# Nav_include: yes
 ---
 
 {% for post in site.posts %}

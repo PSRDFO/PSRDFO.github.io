@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Who We Are
-permalink: /whoweare/
-# Nav_include: yes
+permalink: /01whoweare/
 ---
 
 This will hold a description of all the active researcher's part of PSR-DFO.
