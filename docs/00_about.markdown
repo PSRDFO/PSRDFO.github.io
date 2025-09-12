@@ -10,7 +10,7 @@ We are committed to Open Science and doing our work in a reproducible, transpare
 
 Examples of topics our research group works on include:
 
-- Salmon biocomplexity and mixed-stock fisheries (e.g., [Connors et al. 2020](https://cdnsciencepub.com/doi/10.1139/cjfas-2019-0282), Moore et al. 2021, Connors et al. 2022, Freshwater et al. 2019)
+- Salmon biocomplexity and mixed-stock fisheries (e.g., [Connors et al. 2020](https://cdnsciencepub.com/doi/10.1139/cjfas-2019-0282), [Moore et al. 2021](https://onlinelibrary.wiley.com/doi/10.1111/faf.12567), [Connors et al. 2022](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.2709), [Freshwater et al. 2019](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/eap.1966))
 - Responses of Pacific salmon to a warming and more crowded ocean (Connors et al. 2020; Connors et al. 2025)
 - Incorporating cultural values into ecosystem based fisheries management (Adams et al. 2022) and the development of benchmarks, reference points, and rebuilding targets.
 - Assessing robustness of transboundary fisheries assessment and management frameworks to spatial scale mismatch (Kapur et al. 2024) and climate change (Committee for Scientific Cooperation 2023)
