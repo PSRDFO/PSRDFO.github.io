@@ -18,7 +18,11 @@ permalink: /whoweare/
 
 **Jan Finke** -
 
+**Dylan Glaser** - 
+
 **Dan Greenberg** - I am a Research Biologist at the Pacific Biological Station, working on empirical and simulation studies on Pacific salmon population dynamics. Much like the salmon, it was a bit of a long migration to get here – having started my research career over a decade ago studying first the population dynamics of amphibians (M.Sc. – McGill University, 2013) and subsequently their extinction risk from an evolutionary lens (Ph.D. – Simon Fraser University, 2019). Thankfully, amphibians are (in a reductivist sense) just fish that had the audacity to make a living on land – so it was a fairly smooth metamorphosis into reorienting my thinking towards fish population dynamics, where I’ve been working for the past 5 years with postdoctoral positions at Scripps Institute of Oceanography (2020-2021) studying the application of opportunistic citizen science data for fish population monitoring, and then here at Fisheries and Oceans Canada studying salmon spawner-recruit dynamics (2022 – ). My past research, spanning biomechanics, ecophysiology, population ecology, evolution, and more, can be found [here](https://scholar.google.com/citations?user=1EsMNdEAAAAJ&hl=en).
+
+**Ann-Marie Huang** - 
 
 **Hannah Hunter** - I am a biologist in the Salmon Risk Assessment and Management program. During my Master’s in Resource & Environmental Management at Simon Fraser University, I studied BC’s recreational Rainbow Trout fishery using a simulation model to evaluate alternative hatchery stocking strategies. Since joining DFO in 2023, I have focused on quantifying the potential effects of climate change and at-sea competition on Sockeye, Pink, and Chum salmon across the Northeast Pacific. I am based in Vancouver at DFO Regional Headquarters.
 
