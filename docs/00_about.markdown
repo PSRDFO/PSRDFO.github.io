@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-We are group of researchers with Fisheries and Oceans Canada in the Pacific Region. Our group conducts research and provides science advice on Pacific salmon ecology and management. This includes developing quantitative tools and using retrospective and forward looking analyses to evaluate management actions in the face of uncertainty. Much of our work supports salmon assessment and fishery management and we increasingly seek to understand how a changing environment mediates the effectiveness of management actions.
+We are group of researchers with (Fisheries and Oceans Canada in the Pacific Region)[https://www.dfo-mpo.gc.ca/contact/regions/pacific-pacifique-eng.html]. Our group conducts research and provides science advice on Pacific salmon ecology and management. This includes developing quantitative tools and using retrospective and forward looking analyses to evaluate management actions in the face of uncertainty. Much of our work supports salmon assessment and fishery management and we increasingly seek to understand how a changing environment mediates the effectiveness of management actions.
 
 We are committed to Open Science and doing our work in a reproducible, transparent, and publicly available manner. We benefit immensely from collaborations with others at DFO, academic institutions, state and federal agencies, and First Nations and non-governmental organizations.
 
