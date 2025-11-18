@@ -8,7 +8,9 @@ title: "" # "" Just means there will be no title
 
 # Welcome to the Homepage of Pacific Salmon Research
 
-<!-- 🔗 Important Links:
+<img src="logo.png" alt="Alt Text" width="550" height="105" align="center">
+
+<!-- p Important Links:
 
 - [Discussion Board](https://github.com/PSRDFO/PSRDFO.github.io/discussions)
 - [Active Repositories and Projects](/projects)
