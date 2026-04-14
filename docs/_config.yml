@@ -42,6 +42,8 @@ plugins:
 
 header_files:
   - about.markdown
+  - whoweare.md
+  - projects.md
   - blog.md
 
 # Exclude from processing.
