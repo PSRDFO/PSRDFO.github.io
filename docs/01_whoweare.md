@@ -18,7 +18,7 @@ permalink: /whoweare/
 
 **Paul Van-Dam Bates** - I am a Research Scientist at the Pacific Biological station, working on estimating species composition of salmon on the Fraser River based on hydroacoustic data. I am an ecological statistician and am new to fisheries modelling. I am very interested in computational problems and contribute to the R package NIMBLE, developing numerical methods to approximate posterior distributions as well as efficient MCMC algorithms. I did my PhD at St Andrews in Scotland (2023), developing models to estimate animal density from camera traps and acoustics animal identities are not known. Before that, I worked as a government statistician at the Department of Conservation in New Zealand, developing national biodiversity monitoring programs. I completed my bachelors (2011) and masters degree (2014) at the University of Victoria, with a focus on capture-recapture methods.
 
-**Julie Charbonneau ** - 
+**Julie Charbonneau** - 
 
 **Jan Finke** -
 
