@@ -4,7 +4,7 @@ title: Who We Are
 permalink: /whoweare/
 ---
 
-<img src="BConnors-head-shot.png" alt="Alt Text" width="150" height="175" align="right">
+<img src="/BConnors-head-shot.png" alt="Alt Text" width="150" height="175" align="right">
 
 **Brendan Connors** - I am a Research Scientist based out of the Institute of Ocean Sciences in Victoria. I am an applied population ecologist by training, and fisheries scientist by experience. I originally joined DFO in 2018 as the Program Head for Sablefish (aka Black Cod), a long lived demersal species that supports a commercially important fishery off of Canada's west coast. In 2021 I switched gears to start up a salmon focused research program with an emphasis on quantitative methods, salmon-ecosystem interactions, and fisheries risk assessment and management. Prior to joining DFO I did a postdoc in the [School of Resource and Environmental Management](https://www.sfu.ca/rem.html) at Simon Fraser University on salmon macroecology and assessment of indicators of conservation status, and then spent five years at [ESSA Technologies](http://essa.com). I completed my PhD at Simon Fraser University in the [Department of Biological Sciences](http://www.sfu.ca/biology.html) on parasite ecology and population level consequences of farmed and wild salmon interaction and spent most of my springs working out of the [Salmon Coast Field Station](https://salmoncoast.org/) in the Broughton Archipelago. A list of my publications is available in [Google Scholar](https://scholar.google.ca/citations?hl=en&user=bJAFbHQAAAAJ&view_op=list_works&sortby=pubdate).
 
