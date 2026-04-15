@@ -18,7 +18,9 @@ permalink: /whoweare/
 
 **Paul Van-Dam Bates** - I am a Research Scientist at the Pacific Biological station, working on estimating species composition of salmon on the Fraser River based on hydroacoustic data. I am an ecological statistician and am new to fisheries modelling. I am very interested in computational problems and contribute to the R package NIMBLE, developing numerical methods to approximate posterior distributions as well as efficient MCMC algorithms. I did my PhD at St Andrews in Scotland (2023), developing models to estimate animal density from camera traps and acoustics animal identities are not known. Before that, I worked as a government statistician at the Department of Conservation in New Zealand, developing national biodiversity monitoring programs. I completed my bachelors (2011) and masters degree (2014) at the University of Victoria, with a focus on capture-recapture methods.
 
-**Julie Charbonneau ** - 
+**Julie Charbonneau** - 
+
+**Jan Finke** -
 
 **Dylan Glaser** -
 
@@ -31,7 +33,5 @@ permalink: /whoweare/
 **Anna Potapova** -
 
 ## Alumni (aka gone but not forgotten...)
-
-**Jan Finke** -
 
 **Hannah Hunter** - I am a biologist in the Salmon Risk Assessment and Management program. During my Master's in Resource & Environmental Management at Simon Fraser University, I studied BC's recreational Rainbow Trout fishery using a simulation model to evaluate alternative hatchery stocking strategies. Since joining DFO in 2023, I have focused on quantifying the potential effects of climate change and at-sea competition on Sockeye, Pink, and Chum salmon across the Northeast Pacific. I am based in Vancouver at DFO Regional Headquarters.
