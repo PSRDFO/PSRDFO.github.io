@@ -15,7 +15,7 @@ Examples of topics our research group works on include:
 - Incorporating cultural values into ecosystem based fisheries management ([Adams et al. 2022](https://afspubs.onlinelibrary.wiley.com/doi/10.1002/mcf2.10171)) and the development of benchmarks, reference points, and rebuilding targets.
 - Assessing robustness of transboundary fisheries assessment and management frameworks to spatial scale mismatch ([Kapur et al. 2024](https://cdnsciencepub.com/doi/full/10.1139/cjfas-2024-0008)) and climate change ([Committee for Scientific Cooperation 2023](https://www.psc.org/publications/workshop-reports/psc-special-reports/))
 - Linking population models with habitat data to improve assessment of data limited salmon stocks ([Atlas et al. 2025](https://academic.oup.com/mcf/article/17/2/vtaf008/8124872?searchresult=1))
-- Detecting and accounting for time-varying population processes in salmon science and management ([Wor et al.](https://www.sciencedirect.com/science/article/pii/S0304380025001449); [Holt et al. 2025](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41274313.pdf))
+- Detecting and accounting for time-varying population processes in salmon science and management ([Wor et al. 2025](https://www.sciencedirect.com/science/article/pii/S0304380025001449); [Holt et al. 2025](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41274313.pdf))
 - Evaluating management options for salmon, including harvest, hatchery, and habitat management levers ([salmonMSE](https://salmonmse.com/))
 - Spatiotemporal distributions
 - Predator-prey interactions
