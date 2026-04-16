@@ -1,12 +1,5 @@
 <header class="site-header" role="banner">
 
-  <!-- Header Image confined to wrapper width -->
-  <div class="wrapper">
-    <img src="/images/dfo-res-group-logo.png" 
-         alt="Pacific Salmon Research header photo"
-         style="width:100%; max-height:300px; object-fit:cover; display:block; margin-bottom: 0.5rem;">
-  </div>
-
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
