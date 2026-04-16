@@ -2,6 +2,9 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
+# If you want to preview this file: bundle exec jekyll serve
+# YOU CANNOT KNIT THIS FILE IT WILL BREAK
+
 layout: home # Used to be home
 title: "" # "" Just means there will be no title
 ---
