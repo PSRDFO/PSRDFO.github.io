@@ -31,6 +31,7 @@ theme: minima
 # remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Navigation links in the header
 # minima:
