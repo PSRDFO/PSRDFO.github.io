@@ -39,4 +39,6 @@ permalink: /whoweare/
 
 ## Alumni (aka gone but not forgotten...)
 
-**Hannah Hunter** - I am a biologist in the Salmon Risk Assessment and Management program. During my Master's in Resource & Environmental Management at Simon Fraser University, I studied BC's recreational Rainbow Trout fishery using a simulation model to evaluate alternative hatchery stocking strategies. Since joining DFO in 2023, I have focused on quantifying the potential effects of climate change and at-sea competition on Sockeye, Pink, and Chum salmon across the Northeast Pacific. I am based in Vancouver at DFO Regional Headquarters.
+<img src="/images/Hannah.jpg" alt="Alt Text" width="150" height="150" align="right">
+
+**Hannah Hunter** - I was a biologist in the Salmon Risk Assessment and Management program. During my Master's in Resource & Environmental Management at Simon Fraser University, I studied BC's recreational Rainbow Trout fishery using a simulation model to evaluate alternative hatchery stocking strategies. After joining DFO in 2023, I focused primarily on quantifying the potential effects of climate change and at-sea competition on Sockeye, Pink, and Chum salmon across the Northeast Pacific. I now work at the [Pacific Salmon Foundation](https://psf.ca/).
