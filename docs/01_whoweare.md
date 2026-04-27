@@ -26,7 +26,9 @@ permalink: /whoweare/
 
 **Justin Flemming** -
 
-**Dylan Glaser** -
+<img src="/images/GlaserDylan.jpg" alt="Alt Text" width="150" height="150" align="right">
+
+**Dylan Glaser** - I'm a Research Biologist based out of the Pacific Biological Station. I started working for DFO in 2020, shortly after wrapping up my MSc at the University of Calgary on the population dynaimcs of experimentally harvested, subalpine, invasive (or introduced, depending on your perspective) Brook Trout populations. I was originally hired to help analyze telemetry data from the Big Bar landslide on the Fraser River, but have now found a permanent home in the Salmon Risk Assessment and Management program with Brendan, where I habve been sinec 2022. Most of my work is concerned with identifying escapement goals and doing management strategy evaluation, though sometimes I venture into other research-y type projects. 
 
 **Dan Greenberg** - I am a Research Biologist at the Pacific Biological Station, working on empirical and simulation studies on Pacific salmon population dynamics. Much like the salmon, it was a bit of a long migration to get here -- having started my research career over a decade ago studying first the population dynamics of amphibians (M.Sc. -- McGill University, 2013) and subsequently their extinction risk from an evolutionary lens (Ph.D. -- Simon Fraser University, 2019). Thankfully, amphibians are (in a reductivist sense) just fish that had the audacity to make a living on land -- so it was a fairly smooth metamorphosis into reorienting my thinking towards fish population dynamics, where I've been working for the past 5 years with postdoctoral positions at Scripps Institute of Oceanography (2020-2021) studying the application of opportunistic citizen science data for fish population monitoring, and then here at Fisheries and Oceans Canada studying salmon spawner-recruit dynamics (2022 -- ). My past research, spanning biomechanics, ecophysiology, population ecology, evolution, and more, can be found [here](https://scholar.google.com/citations?user=1EsMNdEAAAAJ&hl=en).
 
