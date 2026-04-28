@@ -17,5 +17,5 @@ Examples of topics our research group works on include:
 - Linking population models with habitat data to improve assessment of data limited salmon stocks ([Atlas et al. 2025](https://academic.oup.com/mcf/article/17/2/vtaf008/8124872?searchresult=1))
 - Detecting and accounting for time-varying population processes in salmon science and management ([Wor et al. 2025](https://www.sciencedirect.com/science/article/pii/S0304380025001449); [Holt et al. 2025](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41274313.pdf))
 - Evaluating management options for salmon, including harvest, hatchery, and habitat management levers ([salmonMSE](https://salmonmse.com/))
-- Spatiotemporal distributions
-- Predator-prey interactions
+- Spatiotemporal marine distributions of Pacific salmon ([Freshwater et al. 2021](https://peerj.com/articles/11163/); [Freshwater et al. 2024](https://www.sciencedirect.com/science/article/pii/S0165783624001279?via%3Dihub))
+- Predator-prey interactions ([Freshwater et al. 2026](https://csas-scas.dfo-mpo.gc.ca/publications-publications/2a61c6c2-2336-415c-84b6-ff4e47991418?lang=en))
