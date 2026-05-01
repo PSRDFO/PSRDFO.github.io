@@ -26,7 +26,9 @@ permalink: /whoweare/
 
 **Jan Finke** -
 
-**Justin Flemming** -
+<img src="/images/J_Flemming_Bio_Photo4.jpg" alt="Alt Text" width="150" height="150" align="right">
+
+**Justin Flemming** - I am a biologist at the Pacific Biological Station in the Applied Salmon Ecology Program. My work focuses on the support and delivery of various at-sea acoustic and satellite telemetry programs investigating marine spatial distributions, predator-prey interactions, and fishery impacts. I started working with telemetry applications in 2019 in the consulting field, where I studied steelhead and bull trout habitat use. I continued working with telemetry methods with the BC Provincial Fisheries Program, focusing on cutthroat trout survival and habitat use. I completed my bachelors in 2015 at the University of British Columbia, where I worked in the Pacific Salmon Ecology and Conservation lab.
 
 <img src="/images/GlaserDylan.png" alt="Alt Text" width="150" height="150" align="right">
 
