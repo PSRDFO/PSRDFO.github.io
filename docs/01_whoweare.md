@@ -28,7 +28,7 @@ permalink: /whoweare/
 
 **Justin Flemming** -
 
-<img src="/images/GlaserDylan.jpg" alt="Alt Text" width="150" height="150" align="right">
+<img src="/images/GlaserDylan.png" alt="Alt Text" width="150" height="150" align="right">
 
 **Dylan Glaser** - I'm a Research Biologist based out of the Pacific Biological Station. I started working for DFO in 2020, shortly after wrapping up my MSc at the University of Calgary on the population dynaimcs of experimentally harvested, subalpine, invasive (or introduced, depending on your perspective) Brook Trout populations. I was originally hired to help analyze telemetry data from the Big Bar landslide on the Fraser River, but have now found a permanent home in the Salmon Risk Assessment and Management program with Brendan, where I habve been sinec 2022. Most of my work is concerned with identifying escapement goals and doing management strategy evaluation, though sometimes I venture into other research-y type projects. 
 
