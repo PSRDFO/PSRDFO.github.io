@@ -10,6 +10,8 @@ permalink: /whoweare/
 
 **Brooke Davis** -
 
+<img src="/images/cam_photo.jpg" alt="Alt Text" width="150" height="150" align="right">
+
 **Cameron Freshwater** - I am a Research Scientist at the Pacific Biological Station in Nanaimo. I began researching salmon marine ecology as a PhD student at the University of Victoria and joined DFO as a postdoc in 2017 with Carrie Holt where I helped develop closed-loop simulation tools to support fisheries management. Since 2020 I have led the Applied Salmon Ecology Program which specializes in leveraging data from at-sea surveys and telemetry studies to parameterize life cycle models for ecosystem-based management. Our current projects are focused on marine spatial distributions, predator-prey interactions, and fishery impacts. A list of my publications are available on [Google Scholar](https://scholar.google.com/citations?user=UysZ3QcAAAAJ&hl=en).
 
 <img src="/images/HoltCarrie.jpg" alt="Alt Text" width="150" height="150" align="right">
