@@ -11,6 +11,7 @@ Examples:
 - stockseasonr? 
 - recent PSSI project and links to them? 
 
+
 {% for post in site.projects %}
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
   <p>{{ post.excerpt }}</p>
