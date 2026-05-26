@@ -10,7 +10,7 @@ Examples:
 - samSim and samEst?
 - stockseasonr? 
 - recent PSSI project and links to them? 
-
+<!-- End list -->
 
 {% for post in site.projects %}
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
