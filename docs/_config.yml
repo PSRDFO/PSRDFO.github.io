@@ -41,6 +41,14 @@ plugins:
 #     - whoweare.md
 #     - blog.md
 
+# Collections (additional blog styled pages)
+collections:
+  opportunities:
+    output: true
+  projects:
+    output: true
+
+# Should be renamed header_pages to match with _includes/header.html 
 header_files:
   - whoweare.md
   - projects.md
