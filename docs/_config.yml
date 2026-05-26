@@ -21,7 +21,7 @@
 title: Pacific Salmon Research DFO
 email: PSRDFO@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Wepage for Pacific Salmon Research Group at Fisheries and Oceans Canada, Pacific Region
+  Webpage for Pacific Salmon Research Group at Fisheries and Oceans Canada, Pacific Region
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://PSRDFO.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  PSRDFO
