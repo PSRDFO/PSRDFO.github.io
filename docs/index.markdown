@@ -42,9 +42,7 @@ Examples of topics our research group works on include:
 
 
 
+<img src="/images/group_photo_may2026.jpg" style="width:100%; max-height:400px; object-fit:cover; display:block; margin-bottom: 1rem;">
 
 
-<figure style="text-align:center;">
-/images/group_photo_may2026.jpg
-<figcaption>Pacific Biological Station. May 2026.</figcaption>
-</figure>
+Pacific Biological Station. May 2026.
