@@ -40,5 +40,6 @@ Examples of topics our research group works on include:
 - Spatiotemporal marine distributions of Pacific salmon ([Freshwater et al. 2021](https://peerj.com/articles/11163/); [Freshwater et al. 2024](https://www.sciencedirect.com/science/article/pii/S0165783624001279?via%3Dihub))
 - Predator-prey interactions ([Freshwater et al. 2026](https://csas-scas.dfo-mpo.gc.ca/publications-publications/2a61c6c2-2336-415c-84b6-ff4e47991418?lang=en))
 
-<img src="/images/group_photo_may2026.jpg" alt="Alt Text" width="450" height="350" align="center">
-Research group. Pacific Biological Station. May 2026.
+<img src="/images/group_photo_may2026.jpg" alt="Alt Text" width="600" height="350" align="center">
+
+Pacific Biological Station. May 2026.
