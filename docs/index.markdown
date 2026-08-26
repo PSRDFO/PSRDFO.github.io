@@ -44,6 +44,7 @@ Examples of topics our research group works on include:
 
 
 
-<img src="/images/group_photo_may2026.jpg" alt="Alt Text" width="600" height="400" align="center">
-
-Pacific Biological Station. May 2026.
+<figure style="text-align:center;">
+/images/group_photo_may2026.jpg
+<figcaption>Pacific Biological Station. May 2026.</figcaption>
+</figure>
