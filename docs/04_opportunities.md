@@ -3,9 +3,6 @@ layout: page
 title: Opportunities
 permalink: /opportunities/
 ---
-This will hold a description of some ongoing opportunities alongside PSR DFO.
+We are always open in talking with individuals interested in working with us. This might be informally on specific analysis or project, in collaboration with other agencies, academic institutions, or eNGOs. When formal opportunities arise at DFO we will post them here. Several of us are adjunct professors and co-supervise students and post-docs at academic institutions. 
 
-{% for post in site.opportunities %}
-  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-  <p>{{ post.excerpt }}</p>
-{% endfor %}
+Please get in touch with us ([Who we are](https://psrdfo.github.io/whoweare/)) if you are interested in collaborating. 

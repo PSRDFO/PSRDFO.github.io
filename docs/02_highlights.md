@@ -4,7 +4,7 @@ title: Highlights
 permalink: /highlights/
 ---
 
-{% for post in site.posts %}
-  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-  <p>{{ post.excerpt }}</p>
-{% endfor %}
+Place for running list of things we think are worth highlighting. Examples might include:
+- recent papers and lay summaries/graphical abstracts
+- recent CSAS projects highlighting interesting science advice
+- links and descriptions of little side projects we might have done that are interesting
