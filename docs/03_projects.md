@@ -22,10 +22,11 @@ Links to R packages, GitHub repositories, and other projects our group works on.
 
 <br>
 
-[**Northeast-Pacific-salmon-spawner-recruitment-repository**](https://github.com/Pacific-salmon-assess/Northeast-Pacific-salmon-spawner-recruitment-repository). A Github repository of 300+ publicly available Pacific salmon spawner-recruitment time-series from various sources across the Northeast Pacific.
-
-<br>
-
 <img src="/images/iwam_hex.png" alt="Alt Text" width="65" height="70" align="left">
 
 [**IWAM**](https://pacific-salmon-assess.github.io/iwam-package/). An Integrated Watershed Area Model for estimating Chinook salmon carrying capacity based on estimated of accessible watershed area. 
+
+
+<br>
+
+[**Northeast-Pacific-salmon-spawner-recruitment-repository**](https://github.com/Pacific-salmon-assess/Northeast-Pacific-salmon-spawner-recruitment-repository). A Github repository of 300+ publicly available Pacific salmon spawner-recruitment time-series from various sources across the Northeast Pacific.
