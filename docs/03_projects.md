@@ -3,12 +3,10 @@ layout: page
 title: Select Projects
 permalink: /projects/
 ---
-This will hold a description of some ongoing projects that PSR are engaged with (hopefully each with a description and link to a repo).
+Links to R packages, GitHub repositories, and other projects our group works on.
 
-Possible examples:
-
-- salmonMSE?
+- [salmonMSE](https://salmonmse.com/)
+- [stockseasonr](https://github.com/pbs-assess/stockseasonr)
+- [Northeast-Pacific-salmon-spawner-recruitment-repository](https://github.com/Pacific-salmon-assess/Northeast-Pacific-salmon-spawner-recruitment-repository)
 - samSim and samEst?
-- stockseasonr? 
 - recent PSSI project and links to them? 
-- salmon SR data compilation?
