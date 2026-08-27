@@ -10,8 +10,13 @@ Links to R packages, GitHub repositories, and other projects our group works on.
 
 
 
+
 <img src="/images/stockseasonr_hex.png" alt="Alt Text" width="65" height="70" align="left">
+
 [stockseasonr](https://github.com/pbs-assess/stockseasonr). R package for fitting models that estimate seasonal stock composition and abundance of Pacific salmon.
+
+
+
 
 
 
