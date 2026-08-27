@@ -10,19 +10,19 @@ Links to R packages, GitHub repositories, and other projects our group works on.
 
 <br>
 
-<img src="/images/stockseasonr_hex.png" alt="Alt Text" width="65" height="70" align="left">
+<img src="/images/stockseasonr_hex.png" alt="Alt Text" width="65" height="70" align="left" margin-right: 20px>
 
 [**stockseasonr**](https://github.com/Pacific-salmon-assess/samSim#samsim-). R package for fitting models that estimate seasonal stock composition and abundance of Pacific salmon.
 
 <br>
 
-<img src="/images/samsim_hex.png" alt="Alt Text" width="65" height="70" align="left">
+<img src="/images/samsim_hex.png" alt="Alt Text" width="65" height="70" align="left" margin-right: 10px>
 
 [**samsim**](https://github.com/Pacific-salmon-assess/samSim#samsim-). A closed-loop simulation package for salmon conservation and stock management units.
 
 <br>
 
-<img src="/images/iwam_hex.png" alt="Alt Text" width="65" height="70" align="left">
+<img src="/images/iwam_hex.png" alt="Alt Text" width="65" height="70" align="left" margin-right: 5px>
 
 [**IWAM**](https://pacific-salmon-assess.github.io/iwam-package/). An Integrated Watershed Area Model for estimating Chinook salmon carrying capacity based on estimated of accessible watershed area. 
 
