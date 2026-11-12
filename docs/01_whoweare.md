@@ -54,7 +54,9 @@ permalink: /whoweare/
 
 **Ann-Marie Huang** -
 
-**Tor Kitching** - 
+<img src="/images/Staff_Photo_TK2.jpg" alt="Alt Text" width="150" height="150" align="right">
+
+**Tor Kitching** - I am an Aquatic Science Biologist at the Pacific Biological Station with Fisheries and Oceans Canada in Nanaimo, BC, in the Stock Assessment (StAR) Section working on assessment methods and decision support tools for Pacific salmon with the quantitative assessment methods team. My interest in marine science began while volunteering at the Algonquin Wildlife Research Station. I later moved on to Dalhousie University where I did my Honours on phytoplankton metaproteomics, and my MSc. at the Integrated Fisheries lab on Parrotfish and Atlantic salmon life history modelling to understand the timing of life stage transitions. This work has led me to my interest and current work on data-deficient watershed area models for Chinook Salmon. My publications are available on [Google Scholar]([‪Tor Kitching‬ - ‪Google Scholar‬](https://scholar.google.com/citations?user=t4ByKSUAAAAJ&hl=en&oi=ao)), and you may find me on [GitHub]([torkjot (Tor Kitching)](https://github.com/torkjot/)).
 
 **Anna Potapova** -
 
